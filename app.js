@@ -32,6 +32,6 @@ request({
     json: true,
     body: userInfo
 }, function (error, response, body) {
-    console.log(response);
+    console.log(response['body']);
 });
 
