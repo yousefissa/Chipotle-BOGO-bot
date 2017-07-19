@@ -1,0 +1,14 @@
+{
+  "name": "chipotle-bogo-bot",
+  "version": "1.0.0",
+  "description": "Get a free chipotle bogo! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yousef Issa",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
